@@ -1,4 +1,4 @@
-# Tailwind3 Web Extension Boilerplate
+# Tailwind3 Web Extension
 This is a starting place for building a Web Extension with Tailwindcss
 
 
